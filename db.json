@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@test.com",
+      "password": "pass123"
+    },
+    {
+      "id": "1720",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "id": "3f52",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "id": "8dbe",
+      "name": "Temp User",
+      "email": "temp@test.com",
+      "password": "temp123"
+    },
+    {
+      "id": "5dbf",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "id": "001d",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "id": "e37d",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "name": "Alice Updated",
+      "email": "alice.updated@test.com",
+      "password": "99999",
+      "id": "4a67"
+    },
+    {
+      "id": "cfec",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "id": "5f9c",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "name": "Alice Updated",
+      "email": "alice.updated@test.com",
+      "password": "99999",
+      "id": "2f74"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "SDET Guide",
+      "author": "QA Master"
+    },
+    {
+      "id": "2",
+      "title": "Java Basics",
+      "author": "John Doe"
+    },
+    {
+      "id": "7e95",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "id": "dd50",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "id": "c114",
+      "title": "Temp Book",
+      "author": "Anonymous"
+    },
+    {
+      "id": "dedd",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "id": "fc31",
+      "title": "Temp Book",
+      "author": "Anonymous"
+    },
+    {
+      "id": "ca59",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "id": "7a56",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "title": "Updated Book",
+      "author": "Princess QA",
+      "id": "1be7"
+    },
+    {
+      "id": "f512",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "id": "9642",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "title": "Updated Title",
+      "author": "Princess QA",
+      "id": "85b5"
+    }
+  ],
+  "borrow": [
+    {
+      "id": "1",
+      "userId": 1,
+      "bookId": 2,
+      "status": "Borrowed"
+    },
+    {
+      "id": "fd2b",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "id": "20cf",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "id": "372b",
+      "userId": 1,
+      "bookId": 2,
+      "status": "Borrowed"
+    },
+    {
+      "id": "42b6",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "id": "4d30",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "id": "0945",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "userId": 1,
+      "bookId": 1,
+      "status": "Returned",
+      "id": "6ece"
+    },
+    {
+      "id": "94d8",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "id": "3df5",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "userId": 1,
+      "bookId": 2,
+      "status": "Returned",
+      "id": "1c0c"
+    }
+  ]
+}
