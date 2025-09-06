@@ -9,6 +9,8 @@ target/
 
 # TestNG / Reports
 test-output/
+*.html
+*.xml
 
 # OS files
 .DS_Store
