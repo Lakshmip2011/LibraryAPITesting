@@ -1,0 +1,11 @@
+# Ignore reports and build output
+test-output/* linguist-vendored
+target/* linguist-vendored
+
+# Ignore web files
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+# Highlight Java as main language
+*.java linguist-language=Java
