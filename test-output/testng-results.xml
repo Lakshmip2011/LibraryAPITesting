@@ -2,79 +2,87 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-06T23:50:41 IST" name="Library API Test Suite" finished-at="2025-09-06T23:50:44 IST" duration-ms="3460">
+  <suite started-at="2025-09-08T14:27:13 IST" name="Library API Test Suite" finished-at="2025-09-08T14:27:17 IST" duration-ms="4501">
     <groups>
     </groups>
-    <test started-at="2025-09-06T23:50:41 IST" name="User Tests" finished-at="2025-09-06T23:50:44 IST" duration-ms="2744">
+    <test started-at="2025-09-08T14:27:13 IST" name="User Tests" finished-at="2025-09-08T14:27:16 IST" duration-ms="3960">
       <class name="tests.UserTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.UserTests@31304f14]" started-at="2025-09-06T23:50:41 IST" name="setup" finished-at="2025-09-06T23:50:41 IST" duration-ms="340" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.UserTests@235834f2]" started-at="2025-09-08T14:27:13 IST" name="setup" finished-at="2025-09-08T14:27:13 IST" duration-ms="744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCreateUser()[pri:0, instance:tests.UserTests@31304f14]" started-at="2025-09-06T23:50:41 IST" name="testCreateUser" finished-at="2025-09-06T23:50:43 IST" duration-ms="1966" status="PASS">
+        <test-method signature="testCreateUser()[pri:0, instance:tests.UserTests@235834f2]" started-at="2025-09-08T14:27:13 IST" name="testCreateUser" finished-at="2025-09-08T14:27:16 IST" duration-ms="2752" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateUser -->
-        <test-method signature="testDeleteUser()[pri:0, instance:tests.UserTests@31304f14]" started-at="2025-09-06T23:50:43 IST" name="testDeleteUser" finished-at="2025-09-06T23:50:43 IST" duration-ms="127" status="PASS">
+        <test-method signature="testDeleteUser()[pri:0, instance:tests.UserTests@235834f2]" started-at="2025-09-08T14:27:16 IST" name="testDeleteUser" finished-at="2025-09-08T14:27:16 IST" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUser -->
-        <test-method signature="testGetUsers()[pri:0, instance:tests.UserTests@31304f14]" started-at="2025-09-06T23:50:43 IST" name="testGetUsers" finished-at="2025-09-06T23:50:44 IST" duration-ms="115" status="PASS">
+        <test-method signature="testGetUsers()[pri:0, instance:tests.UserTests@235834f2]" started-at="2025-09-08T14:27:16 IST" name="testGetUsers" finished-at="2025-09-08T14:27:16 IST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUsers -->
-        <test-method signature="testUpdateUser()[pri:0, instance:tests.UserTests@31304f14]" started-at="2025-09-06T23:50:44 IST" name="testUpdateUser" finished-at="2025-09-06T23:50:44 IST" duration-ms="151" status="PASS">
+        <test-method signature="testUpdateUser()[pri:0, instance:tests.UserTests@235834f2]" started-at="2025-09-08T14:27:16 IST" name="testUpdateUser" finished-at="2025-09-08T14:27:16 IST" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUser -->
       </class> <!-- tests.UserTests -->
     </test> <!-- User Tests -->
-    <test started-at="2025-09-06T23:50:44 IST" name="Book Tests" finished-at="2025-09-06T23:50:44 IST" duration-ms="256">
+    <test started-at="2025-09-08T14:27:17 IST" name="Book Tests" finished-at="2025-09-08T14:27:17 IST" duration-ms="254">
       <class name="tests.BookTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BookTests@45752059]" started-at="2025-09-06T23:50:44 IST" name="setup" finished-at="2025-09-06T23:50:44 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BookTests@1573f9fc]" started-at="2025-09-08T14:27:17 IST" name="setup" finished-at="2025-09-08T14:27:17 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testAddBook()[pri:0, instance:tests.BookTests@45752059]" started-at="2025-09-06T23:50:44 IST" name="testAddBook" finished-at="2025-09-06T23:50:44 IST" duration-ms="46" status="PASS">
+        <test-method signature="testAddBook()[pri:0, instance:tests.BookTests@1573f9fc]" started-at="2025-09-08T14:27:17 IST" name="testAddBook" finished-at="2025-09-08T14:27:17 IST" duration-ms="45" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddBook -->
-        <test-method signature="testDeleteBook()[pri:0, instance:tests.BookTests@45752059]" started-at="2025-09-06T23:50:44 IST" name="testDeleteBook" finished-at="2025-09-06T23:50:44 IST" duration-ms="51" status="PASS">
+        <test-method signature="testDeleteBook()[pri:0, instance:tests.BookTests@1573f9fc]" started-at="2025-09-08T14:27:17 IST" name="testDeleteBook" finished-at="2025-09-08T14:27:17 IST" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteBook -->
-        <test-method signature="testGetBooks()[pri:0, instance:tests.BookTests@45752059]" started-at="2025-09-06T23:50:44 IST" name="testGetBooks" finished-at="2025-09-06T23:50:44 IST" duration-ms="37" status="PASS">
+        <test-method signature="testGetBooks()[pri:0, instance:tests.BookTests@1573f9fc]" started-at="2025-09-08T14:27:17 IST" name="testGetBooks" finished-at="2025-09-08T14:27:17 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetBooks -->
-        <test-method signature="testUpdateBook()[pri:0, instance:tests.BookTests@45752059]" started-at="2025-09-06T23:50:44 IST" name="testUpdateBook" finished-at="2025-09-06T23:50:44 IST" duration-ms="109" status="PASS">
+        <test-method signature="testUpdateBook()[pri:0, instance:tests.BookTests@1573f9fc]" started-at="2025-09-08T14:27:17 IST" name="testUpdateBook" finished-at="2025-09-08T14:27:17 IST" duration-ms="94" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateBook -->
       </class> <!-- tests.BookTests -->
     </test> <!-- Book Tests -->
-    <test started-at="2025-09-06T23:50:44 IST" name="Borrow Tests" finished-at="2025-09-06T23:50:44 IST" duration-ms="330">
+    <test started-at="2025-09-08T14:27:17 IST" name="Borrow Tests" finished-at="2025-09-08T14:27:17 IST" duration-ms="206">
       <class name="tests.BorrowTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BorrowTests@6a6cb05c]" started-at="2025-09-06T23:50:44 IST" name="setup" finished-at="2025-09-06T23:50:44 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:12 IST" name="setUpReport" finished-at="2025-09-08T14:27:13 IST" duration-ms="658" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testBorrowBook()[pri:0, instance:tests.BorrowTests@6a6cb05c]" started-at="2025-09-06T23:50:44 IST" name="testBorrowBook" finished-at="2025-09-06T23:50:44 IST" duration-ms="56" status="PASS">
+        </test-method> <!-- setUpReport -->
+        <test-method signature="testBorrowBook()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="testBorrowBook" finished-at="2025-09-08T14:27:17 IST" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBorrowBook -->
-        <test-method signature="testDeleteBorrow()[pri:0, instance:tests.BorrowTests@6a6cb05c]" started-at="2025-09-06T23:50:44 IST" name="testDeleteBorrow" finished-at="2025-09-06T23:50:44 IST" duration-ms="102" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="setup" finished-at="2025-09-08T14:27:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testDeleteBorrow()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="testDeleteBorrow" finished-at="2025-09-08T14:27:17 IST" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteBorrow -->
-        <test-method signature="testGetBorrowedBooks()[pri:0, instance:tests.BorrowTests@6a6cb05c]" started-at="2025-09-06T23:50:44 IST" name="testGetBorrowedBooks" finished-at="2025-09-06T23:50:44 IST" duration-ms="51" status="PASS">
+        <test-method signature="testGetBorrowedBooks()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="testGetBorrowedBooks" finished-at="2025-09-08T14:27:17 IST" duration-ms="30" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetBorrowedBooks -->
-        <test-method signature="testUpdateBorrow()[pri:0, instance:tests.BorrowTests@6a6cb05c]" started-at="2025-09-06T23:50:44 IST" name="testUpdateBorrow" finished-at="2025-09-06T23:50:44 IST" duration-ms="103" status="PASS">
+        <test-method signature="testUpdateBorrow()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="testUpdateBorrow" finished-at="2025-09-08T14:27:17 IST" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateBorrow -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:tests.BorrowTests@1f2586d6]" started-at="2025-09-08T14:27:17 IST" name="tearDownReport" finished-at="2025-09-08T14:27:20 IST" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
       </class> <!-- tests.BorrowTests -->
     </test> <!-- Borrow Tests -->
   </suite> <!-- Library API Test Suite -->

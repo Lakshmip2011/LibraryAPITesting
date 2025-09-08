@@ -65,6 +65,42 @@
       "email": "alice.updated@test.com",
       "password": "99999",
       "id": "2f74"
+    },
+    {
+      "id": "37e7",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "name": "Alice Updated",
+      "email": "alice.updated@test.com",
+      "password": "99999",
+      "id": "a7af"
+    },
+    {
+      "id": "d51f",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "name": "Alice Updated",
+      "email": "alice.updated@test.com",
+      "password": "99999",
+      "id": "3ffa"
+    },
+    {
+      "id": "c61a",
+      "name": "Bob",
+      "email": "bob@test.com",
+      "password": "secret123"
+    },
+    {
+      "name": "Alice Updated",
+      "email": "alice.updated@test.com",
+      "password": "99999",
+      "id": "f88f"
     }
   ],
   "books": [
@@ -132,6 +168,36 @@
       "title": "Updated Title",
       "author": "Princess QA",
       "id": "85b5"
+    },
+    {
+      "id": "88ce",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "title": "Updated Title",
+      "author": "Princess QA",
+      "id": "93ca"
+    },
+    {
+      "id": "7bd3",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "title": "Updated Title",
+      "author": "Princess QA",
+      "id": "8e22"
+    },
+    {
+      "id": "a4d8",
+      "title": "Automation Testing",
+      "author": "Princess QA"
+    },
+    {
+      "title": "Updated Title",
+      "author": "Princess QA",
+      "id": "9020"
     }
   ],
   "borrow": [
@@ -200,6 +266,42 @@
       "bookId": 2,
       "status": "Returned",
       "id": "1c0c"
+    },
+    {
+      "id": "0527",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "userId": 1,
+      "bookId": 2,
+      "status": "Returned",
+      "id": "f05d"
+    },
+    {
+      "id": "10eb",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "userId": 1,
+      "bookId": 2,
+      "status": "Returned",
+      "id": "ecf6"
+    },
+    {
+      "id": "7a3d",
+      "userId": 1,
+      "bookId": 1,
+      "status": "Borrowed"
+    },
+    {
+      "userId": 1,
+      "bookId": 2,
+      "status": "Returned",
+      "id": "f3d3"
     }
   ]
 }
