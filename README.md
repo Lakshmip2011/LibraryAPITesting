@@ -23,13 +23,12 @@ LibraryAPITests/
 │     │  │  └─ UserTests.java        # API tests for Users
 │     │  └─ ExtentManager.java       # Reporting utility
 │     └─ resources/
-├─ db.json                            # Mock database for JSON-Server
-├─ pom.xml                            # Maven dependencies
-├─ testng.xml                         # Test suite configuration
-├─ test-output/                       # Auto-generated reports
+├─ db.json                           # Mock database for JSON-Server
+├─ pom.xml                           # Maven dependencies
+├─ testng.xml                        # Test suite configuration
+├─ test-output/                      # Auto-generated reports
 ├─ LICENSE
 └─ README.md
-
 ```
 
 ## Video Walkthrough of the project
