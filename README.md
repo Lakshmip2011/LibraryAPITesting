@@ -71,7 +71,7 @@ mvn test
 - All test results will be available inside the test-output/ folder.
 - Extent Reports provide detailed pass/fail summaries.
 
-##Screenshots
+## Screenshots
 LibraryAPITesting Test Report (https://drive.google.com/file/d/1dlGobycQc_IZsflw88Keifl51qunnzaz/view?usp=sharing), 
 LibraryAPITesting Console Output (https://drive.google.com/file/d/1czJCEk6GJxey9F1pK9Zhfo1hnb2UlQS3/view?usp=sharing), 
 LibraryAPITesting Extent Report (https://drive.google.com/file/d/1SZyFDQen-tk0T9_y1KafcXR1VYcPpLG7/view?usp=sharing)
