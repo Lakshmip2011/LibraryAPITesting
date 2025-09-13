@@ -72,7 +72,9 @@ mvn test
 - Extent Reports provide detailed pass/fail summaries.
 
 ##Screenshots
-Include screenshots as necessary.
+LibraryAPITesting Test Report (https://drive.google.com/file/d/1dlGobycQc_IZsflw88Keifl51qunnzaz/view?usp=sharing)
+LibraryAPITesting Console Output (https://drive.google.com/file/d/1czJCEk6GJxey9F1pK9Zhfo1hnb2UlQS3/view?usp=sharing)
+LibraryAPITesting Extent Report (https://drive.google.com/file/d/1SZyFDQen-tk0T9_y1KafcXR1VYcPpLG7/view?usp=sharing)
 
 ## Credentials
 None required – the APIs are open for testing.
