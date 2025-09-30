@@ -31,12 +31,6 @@ LibraryAPITests/
 └─ README.md
 ```
 
-## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
-
-## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
-
 ## Features
 - API test coverage for Users, Books, and Borrowed Books
 - CRUD operations tested for all modules
