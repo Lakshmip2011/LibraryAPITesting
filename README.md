@@ -100,3 +100,6 @@ Not explicitly documented, but implied via test names:
 - Maven
 - JSON-Server (for mock API)
 - Dummy JSON file (db.json)
+
+## Tags
+#api-testing #rest-assured #testng #java #automation-testing
